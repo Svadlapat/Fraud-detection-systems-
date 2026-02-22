@@ -1,0 +1,11 @@
+Project: Fraud Detection using AutoEncoder
+Framework: PyOD
+Language: Python
+Environment: GitHub Codespaces
+Libraries:
+- PyOD
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+Dataset: Fraud Detection
