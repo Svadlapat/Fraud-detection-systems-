@@ -36,9 +36,9 @@ Matplotlib
 ## Installation & Setup
 
 Install dependencies:
-``
+```
 pip install -r requirements.txt
-``
+```
 Run model:
 ```
 python src/fraud_autoencoder.py
